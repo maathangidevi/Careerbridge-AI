@@ -1,0 +1,103 @@
+Build a GenAI-powered career and learning navigator called "CareerBridge AI" for first-generation women learners with limited professional networks.
+
+The goal is to help a user move from:
+"I want a career, but I don't know where to begin"
+to
+"A realistic target role, a skill-gap map, an achievable learning plan, proof of learning, and a clear first career action."
+
+Create a simple, professional and easy-to-use app with the following user journey:
+
+1. USER PROFILE & ASSESSMENT
+Collect:
+- Education and field of study
+- Current year/experience
+- Existing technical and soft skills
+- Interests
+- Previous experience/projects
+- Career interests or preferred field
+- Available learning time per day/week
+- Budget for learning
+- Personal responsibilities or constraints
+- Accessibility needs if any
+- Confidence level
+- Current professional network level
+
+2. CAREER DISCOVERY
+Analyze the user's profile and recommend up to 3 realistic career roles.
+For every role explain:
+- Why it matches the user
+- Existing skills that transfer to the role
+- Missing skills
+- Estimated entry-level readiness
+- Expected career outcome
+
+Select ONE primary recommended target role.
+
+3. TRANSFERABLE SKILLS
+Identify useful skills the user already has from education, projects, volunteering, part-time work, family responsibilities or previous experience.
+Show how each transferable skill connects to the target role.
+Do not focus only on missing skills.
+
+4. SKILL GAP MAP
+Separate:
+- Skills already possessed
+- Skills to strengthen
+- Essential new skills
+- Optional advanced skills
+
+5. PERSONALIZED 90-DAY PLAN
+Create:
+- Days 1–30: Foundation
+- Days 31–60: Skill Development
+- Days 61–90: Career Readiness
+
+The plan must respect the user's available time, budget and constraints.
+Prioritize essential learning instead of creating an unrealistic workload.
+
+6. WEEKLY SCHEDULE
+Convert the 90-day plan into a practical weekly schedule based on the user's actual available hours.
+Include learning, practice, project work, revision and career activities.
+
+7. LEARNING RECOMMENDATIONS
+Recommend suitable learning resources or learning activities.
+For each recommendation provide:
+- Reason for recommendation
+- Cost category
+- Estimated time
+- Expected outcome
+
+Prioritize free or affordable options when the user's budget is limited.
+
+8. PROOF OF LEARNING
+Recommend one portfolio project or practical task related to the target role.
+Also create a role-specific interview task.
+Explain what evidence the user should produce to demonstrate the skill to an employer.
+
+9. PROFESSIONAL NETWORK BUILDER
+Because the target user has limited professional networks:
+- Suggest appropriate types of professionals to connect with
+- Suggest realistic networking actions
+- Generate a short personalized professional outreach message
+- Never assume the user already has a professional network
+
+10. RECOVERY PLAN
+If the user falls behind, create a recovery plan that adjusts the schedule according to the user's current available time.
+Do not treat falling behind as failure.
+Prioritize essential tasks and preserve the most important career outcomes.
+
+11. CAREER READINESS
+Generate a measurable readiness score from 0–100 based on:
+- Skills
+- Transferable skills
+- Portfolio evidence
+- Interview readiness
+- Career preparation
+- Networking readiness
+
+Explain the score and identify the SINGLE most important next action.
+
+Use GenAI to personalize the outputs rather than giving generic career advice.
+Always explain why recommendations are made.
+Do not guarantee employment.
+Avoid gender stereotypes or assumptions about what careers women should pursue.
+Keep the experience supportive, practical, realistic and action-oriented.
