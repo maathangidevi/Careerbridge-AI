@@ -33,3 +33,7 @@ Women's Hackathon
 
 ## Prototype
 Built and demonstrated using AWS PartyRock.
+## Live Prototype
+
+[Open CareerBridge AI on AWS PartyRock](https://partyrock.aws/u/Maathangidevi/Rizjt76gjd/CareerBridge-AI%253A-Your-First-Career-Navigator<img width="1647" height="80" alt="image" src="https://github.com/user-attachments/assets/5cd1f26c-9f3c-45bc-9a18-047d11029993" />
+)
